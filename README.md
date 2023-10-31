@@ -12,7 +12,12 @@ I'm currently working on a project called Route Solutions. The goal is to create
 
 🤝 I'm open to collaboration and always looking for opportunities to contribute to exciting projects. Let's connect and code together!
 
-Feel free to check out my GitHub stats and the languages I use the most in my repositories. Thanks for visiting my profile! 🚀
+Feel free to check out my GitHub stats and the languages I use the most in my repositories.
+
+## Discord
+[![My Skills](https://skillicons.dev/icons?i=discord&perline=1)](https://discord.gg/xeHs7RyS3Z)
+
+Thanks for visiting my profile! 🚀
 
 ## Knowledge includes use of:
 
