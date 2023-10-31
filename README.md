@@ -14,9 +14,6 @@ I'm currently working on a project called Route Solutions. The goal is to create
 
 Feel free to check out my GitHub stats and the languages I use the most in my repositories.
 
-## Discord
-[![My Skills](https://skillicons.dev/icons?i=discord&perline=1)](https://discord.gg/xeHs7RyS3Z)
-
 Thanks for visiting my profile! 🚀
 
 ## Knowledge includes use of:
