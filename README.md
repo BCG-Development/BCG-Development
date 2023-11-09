@@ -4,6 +4,7 @@ I'm a self-taught programmer and software engineer with around 5 years of coding
 
 - 💻 My preferred programming language: Python 🐍
 - 🌐 A small background in C, C#, and C++
+- 📚 Currently learning different database systems and SQL
 - 🚀 Aspiring to turn my coding hobby into a full-time career
 
 🌟 **Current Project**: [Route Solutions](https://github.com/BCG-Development/Route-Solutions)
