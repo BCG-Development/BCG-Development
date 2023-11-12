@@ -17,6 +17,8 @@ Feel free to check out my GitHub stats and the languages I use the most in my re
 
 Thanks for visiting my profile! 🚀
 
+📧 Contact me: [![Email](https://img.shields.io/badge/Email-bcg__development%40hotmail.com-blue?style=flat-square&logo=mail.ru)](mailto:bcg_development@hotmail.com)
+
 ## Knowledge includes use of:
 
 [![My Skills](https://skillicons.dev/icons?i=git,github,py,c,cs,cpp,vscode,mongodb&perline=8)](https://skillicons.dev)
