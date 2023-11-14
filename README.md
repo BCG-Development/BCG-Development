@@ -23,11 +23,11 @@ Thanks for visiting my profile! 🚀
 
 or join the discord server:
 
-[![Discord](https://img.shields.io/discord/873247823959711498?color=blue&label=DevGroundZero&logo=discord&style=flat-square)](https://discord.gg/eNc5mWgH)
+[![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/eNc5mWgH)
 
 ## Knowledge includes use of:
 
-[![My Skills](https://skillicons.dev/icons?i=git,github,py,c,cs,cpp,vscode,mongodb&perline=8)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=git,github,java,py,c,cs,cpp,vscode,mongodb&perline=9)](https://skillicons.dev)
 
 ![BCG-Development's GitHub stats](https://github-readme-stats.vercel.app/api?username=BCG-Development&show_icons=true&theme=tokyonight&count_private=true)
 
