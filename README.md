@@ -23,7 +23,7 @@ Thanks for visiting my profile! 🚀
 
 or join the discord server:
 
-[![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/eNc5mWgH)
+[![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/DrSFR4KC)
 
 ## Knowledge includes use of:
 
