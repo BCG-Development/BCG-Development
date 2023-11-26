@@ -7,7 +7,7 @@ I'm a self-taught programmer and software engineer with around 5 years of coding
 - 📚 Currently learning different database systems and SQL
 - 🚀 Aspiring to turn my coding hobby into a full-time career
 
-🌟 **Current Project**: [Route Solutions](https://github.com/BCG-Development/Route_Solutions_v2)
+🌟 **Current Project**: [Route Solutions](https://github.com/BCG-Development/RS_v1)
 
 I'm currently working on a project called Route Solutions. The goal is to create a program that can plan and optimize routes for the business I work for. I believe it has the potential to cut costs, save time, and provide insights by analyzing data from past weeks and months.
 
