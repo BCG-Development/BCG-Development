@@ -21,10 +21,6 @@ Thanks for visiting my profile! 🚀
 
 [![Email](https://img.shields.io/badge/Email-bcg__development%40hotmail.com-blue?style=flat-square&logo=mail.ru)](mailto:bcg_development@hotmail.com)
 
-or join the discord server:
-
-[![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/DrSFR4KC)
-
 ## Knowledge includes use of:
 
 [![My Skills](https://skillicons.dev/icons?i=git,github,java,py,c,cs,cpp,vscode,mongodb&perline=9)](https://skillicons.dev)
